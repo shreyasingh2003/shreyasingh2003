@@ -1,6 +1,18 @@
-<h1 align="center">
-  <img src=![f0bd22d1a593824058038785_rw_1200](https://user-images.githubusercontent.com/97290356/191400634-656057be-05de-4c9f-9912-f8004e7ecca7.gif)text=Hi 🤗, I'm Shreya Singh 😄 &animation=fadeIn&type=waving&color=gradient&height=100"/>
-</h1>
+<h1 aling="center">Hi ,I'am Shreya Singh</h1>
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+<body>
+
+<span style='font-size:100px;'>&#128522;</span>
+
+
+</body>
+</html>
 ![f0bd22d1a593824058038785_rw_1200](https://user-images.githubusercontent.com/97290356/191400634-656057be-05de-4c9f-9912-f8004e7ecca7.gif)
 
 <h3 align="center">I am learning....✍️</h3>
