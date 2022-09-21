@@ -22,7 +22,7 @@
 - 📫 How to reach me **shreya6110@gmail.com**
 
 - 😄 funfact **I like to listen story**
--  🔗 Good day  **Thankyou for connect **
+-  🔗 Good day💐 Thankyou for connect 
 
 
 
