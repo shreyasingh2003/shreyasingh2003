@@ -1,6 +1,6 @@
-<h1 aling="center">Hi ,I'am Shreya Singh</h1>
+<h1 aling="center">Hi ,I'am Shreya Singh<span style='font-size:100px;'>&#128522;</span></h1>
 
-<span style='font-size:100px;'>&#128522;</span>
+
 
 
 
