@@ -1,18 +1,9 @@
 <h1 aling="center">Hi ,I'am Shreya Singh</h1>
-<!DOCTYPE html>
-<html>
-<style>
-body {
-  font-size: 20px;
-}
-</style>
-<body>
 
 <span style='font-size:100px;'>&#128522;</span>
 
 
-</body>
-</html>
+
 ![f0bd22d1a593824058038785_rw_1200](https://user-images.githubusercontent.com/97290356/191401227-46517f5e-1ff1-421d-87d8-2c74e63252ab.gif)
 
 
