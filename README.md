@@ -2,9 +2,9 @@
 
 
 
+![pikachu-shy](https://user-images.githubusercontent.com/97290356/191402645-41fc9c2b-03e7-47f2-954b-d00a383a4f81.gif)
 
 
-![f0bd22d1a593824058038785_rw_1200](https://user-images.githubusercontent.com/97290356/191401227-46517f5e-1ff1-421d-87d8-2c74e63252ab.gif&height=100")
 
 
 <h3 align="center">I am learning....✍️</h3>
