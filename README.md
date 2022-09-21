@@ -1,4 +1,4 @@
-<h1 aling="center">Hi ,I'am Shreya Singh<span style='font-size:100px;'>&#128522;</span></h1>
+<h1 aling="center">Hi, I'am Shreya Singh<span style='font-size:100px;'>&#128522;</span></h1>
 
 
 
@@ -22,7 +22,11 @@
 - 📫 How to reach me **shreya6110@gmail.com**
 
 - 😄 funfact **I like to listen story**
--🔗**Thankyou for connect **
+-  🔗 Good day  **Thankyou for connect **
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
