@@ -1,4 +1,6 @@
 <h1 align="center">Hi 🙏, I'm Shreya Singh</h1>
+![image](https://user-images.githubusercontent.com/97290356/191397349-af5c8e95-e25c-423d-a754-923bb6b108c6.png)
+
 <h3 align="center">I am learning....✍️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasingh2003" /> </p>
