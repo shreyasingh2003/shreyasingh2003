@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi 🤗, I'm Shreya Singh 😄 &animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src=![f0bd22d1a593824058038785_rw_1200](https://user-images.githubusercontent.com/97290356/191400634-656057be-05de-4c9f-9912-f8004e7ecca7.gif)text=Hi 🤗, I'm Shreya Singh 😄 &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </h1>
+![f0bd22d1a593824058038785_rw_1200](https://user-images.githubusercontent.com/97290356/191400634-656057be-05de-4c9f-9912-f8004e7ecca7.gif)
 
 <h3 align="center">I am learning....✍️</h3>
 
