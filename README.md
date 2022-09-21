@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p><h1 align="center">Hi 🤗, I'm Shreya Singh</h1>
+  <img src="https://capsule-render.vercel.app/api?text=</p><h1 align="center">Hi 🤗, I'm Shreya Singh</h1>&animation=fadeIn&type=waving&color=gradient&height=100"/>
+
 <h3 align="center">I am learning....✍️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasingh2003" /> </p>
