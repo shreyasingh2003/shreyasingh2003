@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?text=</p><h1 align="center">Hi 🤗, I'm Shreya Singh</h1>&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=<h1 align="center">Hi 🤗, I'm Shreya Singh</h1>&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
 <h3 align="center">I am learning....✍️</h3>
 
