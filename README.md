@@ -45,43 +45,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyasingh2003&show_icons=true&locale=en&layout=compact" alt="shreyasingh2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasingh2003&show_icons=true&locale=en" alt="shreyasingh2003" /></p>
-<h2 align="center"> ✨ HacktoberFest 2022 ✨</h2> 
-
-<div align="center">
- 
-
-
-<a><img src="![2_11zon](https://user-images.githubusercontent.com/97290356/205475609-5baadc46-ebfc-40d5-869e-26f0ca704c98.jpg)" img alt=" ">
-</a>
-
-<a><img src="![5_11zon](https://user-images.githubusercontent.com/97290356/205475691-47b58006-ece0-4ed6-9a2f-b3744f192d4a.jpg)">
-<img alt="">
-</a>
- 
- 
- <a><img src ="![6_11zon](https://user-images.githubusercontent.com/97290356/205475706-701d63fd-54ae-43a3-bd63-ab99ec58a75f.jpg)" img alt=" ">
-</a>
-
-  
- <a><img src="![7_11zon](https://user-images.githubusercontent.com/97290356/205475719-4f2494e2-8e2a-42cc-89f9-78db9c2dd251.jpg)" >
-<img alt=" ">
- </a>
+<h2align="center"> ✨ HacktoberFest 2022 ✨</h2> 
+![1_11zon](https://user-images.githubusercontent.com/97290356/205476393-6e211d3d-85a7-4b1a-81a3-d494a3924064.jpg)
+![3_11zon](https://user-images.githubusercontent.com/97290356/205476399-22ac606d-cfee-45e0-88e2-f1c147b2ba4b.jpg)
 
 
-<a><img src="![8_11zon](https://user-images.githubusercontent.com/97290356/205475732-4a7c26ef-5e48-4b39-80fd-050e7961d6b6.jpg)">
-<img alt=" ">
-</a>
-
-
-
-<a><img src="![3_11zon](https://user-images.githubusercontent.com/97290356/205475762-abfa121f-457a-4047-ab0a-caeceacab6b0.jpg)">
-<img alt=" ">
-</a>
-
-
-
-
-
-</div>
-
-
+![5_11zon](https://user-images.githubusercontent.com/97290356/205476321-934571d6-cf93-4ea6-892e-be9b321b0e3e.jpg)
+![6_11zon](https://user-images.githubusercontent.com/97290356/205476324-5de20a24-8e1c-49ac-86b5-ddf1089ff084.jpg)
+![7_11zon](https://user-images.githubusercontent.com/97290356/205476333-a972b137-100c-4e37-b5ab-a7becce22104.jpg)
+![8_11zon](https://user-images.githubusercontent.com/97290356/205476342-f9a28789-deaa-4ead-8bc5-3bb66aae2f2d.jpg)
