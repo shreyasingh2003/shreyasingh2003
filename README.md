@@ -47,7 +47,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasingh2003&show_icons=true&locale=en" alt="shreyasingh2003" /></p>
 <h2 align="center"> ✨ HacktoberFest 2022 ✨</h2> 
 
-![ image size]<img src="[https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/97290356/205476393-6e211d3d-85a7-4b1a-81a3-d494a3924064.jpg)" width="400" height="790">
+![ ]<img src="[https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/97290356/205476393-6e211d3d-85a7-4b1a-81a3-d494a3924064.jpg)" width="50" height="50">
+
+![ ]<img src="https://user-images.githubusercontent.com/97290356/205476399-22ac606d-cfee-45e0-88e2-f1c147b2ba4b.jpg" width="50" height="50">
+
+![ ]<img src=" https://user-images.githubusercontent.com/97290356/205476321-934571d6-cf93-4ea6-892e-be9b321b0e3e.jpg" width="50" height="50">
+![ ]<img src="[https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/97290356/205476393-6e211d3d-85a7-4b1a-81a3-d494a3924064.jpg)" width="50" height="50">
 
 ![1_11zon](https://user-images.githubusercontent.com/97290356/205476393-6e211d3d-85a7-4b1a-81a3-d494a3924064.jpg)
 ![3_11zon](https://user-images.githubusercontent.com/97290356/205476399-22ac606d-cfee-45e0-88e2-f1c147b2ba4b.jpg)
