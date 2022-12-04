@@ -47,6 +47,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasingh2003&show_icons=true&locale=en" alt="shreyasingh2003" /></p>
 <h2 align="center"> ✨ HacktoberFest 2022 ✨</h2> 
 
+ <img src="https://user-images.githubusercontent.com/97290356/205476934-dc625baf-0a3e-4c38-9612-2ca05e317620.png" width="150" height="280">
 
-![HACKTOBERFEST](https://user-images.githubusercontent.com/97290356/205476934-dc625baf-0a3e-4c38-9612-2ca05e317620.png)
+ ![HACKTOBERFEST](https://user-images.githubusercontent.com/97290356/205476934-dc625baf-0a3e-4c38-9612-2ca05e317620.png)
 
