@@ -45,5 +45,50 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyasingh2003&show_icons=true&locale=en&layout=compact" alt="shreyasingh2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasingh2003&show_icons=true&locale=en" alt="shreyasingh2003" /></p>
+<h2 align="center"> ✨ HacktoberFest 2022 ✨</h2> 
+
+<div align="center">
+
+<a href="https://www.holopin.io/userbadge/cl8nasl1r1203209lbgyf35gly">
+<img alt="![2_11zon](https://user-images.githubusercontent.com/97290356/205475609-5baadc46-ebfc-40d5-869e-26f0ca704c98.jpg)">
+</a>
+
+<a href="https://www.holopin.io/userbadge/cl8r8afh6026609ldfwiv9i19">
+<img alt="
+![5_11zon](https://user-images.githubusercontent.com/97290356/205475691-47b58006-ece0-4ed6-9a2f-b3744f192d4a.jpg)">
+</a>
+ 
+ 
+ <a href="https://www.holopin.io/userbadge/cla2eikuk048608ih4wa4dujj">
+<img alt="![6_11zon](https://user-images.githubusercontent.com/97290356/205475706-701d63fd-54ae-43a3-bd63-ab99ec58a75f.jpg)">
+</a>
+
+  
+ <a href="https://www.holopin.io/userbadge/clams89u91529908jqgv8d9rka">
+<img alt="</a>![7_11zon](https://user-images.githubusercontent.com/97290356/205475719-4f2494e2-8e2a-42cc-89f9-78db9c2dd251.jpg)">
+
+
+  
+
+ 
+<a href="https://www.holopin.io/userbadge/cl95412fa538309l6krlm38ej">
+<img alt="Khushi's Holopin Badge" width="24%" src="https://user-images.githubusercontent.com/102166679/195340577-4fa9b088-c3e7-4702-81ed-8904ea8e7ae3.png">
+</a>
+
+<a href="https://www.holopin.io/userbadge/cl95yyebd1597109l8q2vz4v5t">
+<img alt="![8_11zon](https://user-images.githubusercontent.com/97290356/205475732-4a7c26ef-5e48-4b39-80fd-050e7961d6b6.jpg)">
+</a>
+
+
+
+<a href="https://www.holopin.io/userbadge/cl9nkciic041108l98k8g8fxx">
+<img alt="![3_11zon](https://user-images.githubusercontent.com/97290356/205475762-abfa121f-457a-4047-ab0a-caeceacab6b0.jpg)">
+</a>
+
+
+
+
+
+</div>
 
 
