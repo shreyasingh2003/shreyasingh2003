@@ -49,35 +49,35 @@
 
 <div align="center">
  
-<img src="![2_11zon](https://user-images.githubusercontent.com/97290356/205475609-5baadc46-ebfc-40d5-869e-26f0ca704c98.jpg)" width="25%"  alt=" ">
 
-<a href="![2_11zon](https://user-images.githubusercontent.com/97290356/205475609-5baadc46-ebfc-40d5-869e-26f0ca704c98.jpg)">
+
+<a><img src="![2_11zon](https://user-images.githubusercontent.com/97290356/205475609-5baadc46-ebfc-40d5-869e-26f0ca704c98.jpg)">
 <img alt=" ">
 </a>
 
-<a href="https://www.holopin.io/userbadge/cl8r8afh6026609ldfwiv9i19">
-<img alt="![5_11zon](https://user-images.githubusercontent.com/97290356/205475691-47b58006-ece0-4ed6-9a2f-b3744f192d4a.jpg)">
+<a><img src="![5_11zon](https://user-images.githubusercontent.com/97290356/205475691-47b58006-ece0-4ed6-9a2f-b3744f192d4a.jpg)">
+<img alt="">
 </a>
  
  
- <a href="https://www.holopin.io/userbadge/cla2eikuk048608ih4wa4dujj">
-<img alt="![6_11zon](https://user-images.githubusercontent.com/97290356/205475706-701d63fd-54ae-43a3-bd63-ab99ec58a75f.jpg)">
+ <a><img src ="![6_11zon](https://user-images.githubusercontent.com/97290356/205475706-701d63fd-54ae-43a3-bd63-ab99ec58a75f.jpg)">
+<img alt=" ">
 </a>
 
   
- <a href="https://www.holopin.io/userbadge/clams89u91529908jqgv8d9rka">
-<img alt="![7_11zon](https://user-images.githubusercontent.com/97290356/205475719-4f2494e2-8e2a-42cc-89f9-78db9c2dd251.jpg)">
+ <a><img src="![7_11zon](https://user-images.githubusercontent.com/97290356/205475719-4f2494e2-8e2a-42cc-89f9-78db9c2dd251.jpg)" >
+<img alt=" ">
  </a>
 
 
-<a href="https://www.holopin.io/userbadge/cl95yyebd1597109l8q2vz4v5t">
-<img alt="![8_11zon](https://user-images.githubusercontent.com/97290356/205475732-4a7c26ef-5e48-4b39-80fd-050e7961d6b6.jpg)">
+<a><img src="![8_11zon](https://user-images.githubusercontent.com/97290356/205475732-4a7c26ef-5e48-4b39-80fd-050e7961d6b6.jpg)">
+<img alt=" ">
 </a>
 
 
 
-<a href="https://www.holopin.io/userbadge/cl9nkciic041108l98k8g8fxx">
-<img alt="![3_11zon](https://user-images.githubusercontent.com/97290356/205475762-abfa121f-457a-4047-ab0a-caeceacab6b0.jpg)">
+<a><img src="![3_11zon](https://user-images.githubusercontent.com/97290356/205475762-abfa121f-457a-4047-ab0a-caeceacab6b0.jpg)">
+<img alt=" ">
 </a>
 
 
