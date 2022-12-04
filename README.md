@@ -48,6 +48,7 @@
 <h2 align="center"> ✨ HacktoberFest 2022 ✨</h2> 
 
 <div align="center">
+ <img src="![2_11zon](https://user-images.githubusercontent.com/97290356/205475609-5baadc46-ebfc-40d5-869e-26f0ca704c98.jpg)" width="25%"  alt=" ">
 
 <a href="https://www.holopin.io/userbadge/cl8nasl1r1203209lbgyf35gly">
 <img alt="![2_11zon](https://user-images.githubusercontent.com/97290356/205475609-5baadc46-ebfc-40d5-869e-26f0ca704c98.jpg)">
