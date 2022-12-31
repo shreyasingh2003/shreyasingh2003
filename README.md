@@ -1,4 +1,4 @@
-background-image:url(""C:\Users\shreya\Downloads\x.jfif"")
+background-image:url(["C:\Users\shreya\Downloads\x.jfif"](https://i.pinimg.com/736x/0e/44/af/0e44afe487ed78f9c68c4c8e98d75bb9.jpg))
  
 <h1 aling="center">Hi, I'am Shreya Singh<span style='font-size:100px;'>&#128522;</span></h1>
 
