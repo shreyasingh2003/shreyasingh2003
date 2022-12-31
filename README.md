@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:aquamarine;">
+<body style="background-color:#000000;">
  
 <h1 aling="center">Hi, I'am Shreya Singh<span style='font-size:100px;'>&#128522;</span></h1>
 
