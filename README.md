@@ -1,5 +1,5 @@
-<style>
-background-image:url("https://i.pinimg.com/736x/0e/44/af/0e44afe487ed78f9c68c4c8e98d75bb9.jpg") 
+
+<body background="https://i.pinimg.com/736x/0e/44/af/0e44afe487ed78f9c68c4c8e98d75bb9.jpg" >
 
  
 <h1 aling="center">Hi, I'am Shreya Singh<span style='font-size:100px;'>&#128522;</span></h1>
@@ -54,6 +54,6 @@ background-image:url("https://i.pinimg.com/736x/0e/44/af/0e44afe487ed78f9c68c4c8
  <img src="https://user-images.githubusercontent.com/97290356/205476934-dc625baf-0a3e-4c38-9612-2ca05e317620.png" width="500" height="400">
  </p>
  
-</style>
+</body>
 
 
