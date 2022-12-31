@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<body background"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.dog%2Fanimated&psig=AOvVaw3hEsTocDh3Z8kaCqPpM8Pi&ust=1672589176417000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjqrrCepPwCFQAAAAAdAAAAABAJ">
+<body                                                                                                                             background"https://www.google.com/url
+                 sa=i&url=https%3A%2F%2Fwallpaper.dog%2Fanimated&psig=AOvVaw3hEsTocDh3Z8kaCqPpM8Pi&ust=1672589176417000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjqrrCepPwCFQAAAAAdAAAAABAJ">
  
 <h1 aling="center">Hi, I'am Shreya Singh<span style='font-size:100px;'>&#128522;</span></h1>
 
