@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:aquamarine;">
 <h1 aling="center">Hi, I'am Shreya Singh<span style='font-size:100px;'>&#128522;</span></h1>
 
 
@@ -50,6 +53,7 @@
  <img src="https://user-images.githubusercontent.com/97290356/205476934-dc625baf-0a3e-4c38-9612-2ca05e317620.png" width="500" height="400">
  </p>
  
- <body style="background-color:aquamarine;">
 
+</body>
+</html>
 
