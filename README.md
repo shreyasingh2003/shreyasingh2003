@@ -19,13 +19,14 @@
 
 <p align="left"> <a href="https://twitter.com/@shreyasingh2025" target="blank"><img src="https://img.shields.io/twitter/follow/@shreyasingh2025?logo=twitter&style=for-the-badge" alt="@shreyasingh2025" /></a> </p>
 
-- 🔭 I’m currently working on **Data science project**
+- 🔭 I’m currently working on **Web2 project**
 
 - 🌱 I’m currently learning **Data structure**
 
 - 📫 How to reach me **shreya6110@gmail.com**
 
 - 😄 funfact **I like to listen story**
+
 -  🔗 Good day💐 Thankyou for connecting 
 
 
